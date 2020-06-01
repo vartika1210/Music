@@ -1,0 +1,31 @@
+body{
+  background-color:  #fccde2;
+  text align:center;
+}
+h1{
+  text-align:center;
+  margin-top: 5%;
+  background-color: #fc5c9c
+  
+
+}
+h2{
+  padding-top: 10%;
+  padding-right: 25%;
+  text-align:center;
+}
+.bottom-container{
+
+  text-align: center;
+}
+.contact-me {
+
+  text-align: center;
+  padding-bottom: 10%;
+}
+#contact-photo{
+  border-radius:100%;
+  float: right;
+  width:20%;
+  margin-right: 200px;
+}

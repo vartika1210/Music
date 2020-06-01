@@ -1,0 +1,47 @@
+body{
+  background-color: #fccde2;
+  text-align: center;
+}
+h1{
+  font-family: "Montserrat-Bold";
+  font-size: 5rem;
+  margin: 50px auto 100px auto;
+  color: #fcefee;
+
+}
+img {
+  border: 1px solid #ddd; /* Gray border */
+  border-radius: 10%;  /* Rounded border */
+  padding: 5px; /* Some padding */
+  width: 35%; /* Set a small width */
+}
+
+/* Add a hover effect (blue shadow) */
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width:40%;
+  margin: 100px auto 100px auto;
+}
+h1
+{
+  background-color: #fc5c9c;
+  padding-bottom: 2%;
+  width: 75%;
+  border-radius: 100%;
+}
+.navbar {
+  padding: 2rem 1rem 4.5rem;
+
+}
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}

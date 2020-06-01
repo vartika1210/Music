@@ -1,0 +1,67 @@
+  body{
+    background-color: #fccde2;
+    text-align: center;
+  }
+.myphoto{
+  width: 30%;
+}
+.quotes-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.quotes-image {
+  width: 20%;
+  border-radius: 100%;
+  margin: 20px;
+}
+.container-fluid{
+  padding: 7% 15%;
+}
+.colored-section
+{
+  color: #fcefee;
+  background-color: #fc5c9c;
+}
+.navbar {
+  padding: 2rem 1rem 4.5rem;
+
+}
+
+.navbar-brand {
+  font-family: "Sacramento";
+  font-size: 3.5rem;
+  font-weight: bold;
+  color:#fcefee
+
+}
+h3{
+  font-family: "Montserrat-Bold";
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+#features{
+
+  padding: 7% 15%;
+
+}
+.icon{
+  color:#ee91bc;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color: #fc5c9c;
+}
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width:40%;
+  margin: 100px auto 100px auto;
+}
